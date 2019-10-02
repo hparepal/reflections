@@ -1,2 +1,4 @@
 bkxzbckskdjfhukldsncl
 huha
+
+Trying to push a new commit on master branch by checking out the older commits on the same branch
